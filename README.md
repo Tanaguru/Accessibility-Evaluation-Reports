@@ -10,9 +10,11 @@ Ces grilles permettent d'auditer test par test et non critère par critère. Ain
 
 - Version RGAA 3 2017
 - Version RGAA 4.0 2019
+- Version RGAA 4.1 2021
 
 ## Grille d'audit RGAA par critères
 
 Dans certains cas, la grille d'audit par critères peut s'avérer plus pratique également. Nous avons donc publié notre version.
 
 - Version RGAA 4.0 2019
+- Version RGAA 4.1 2021
